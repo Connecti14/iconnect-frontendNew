@@ -1,0 +1,104 @@
+@media screen and (min-width:1201px) and (max-width:1500px) {
+    .btn-style{
+      width: 40%;
+      margin-left: 2%;
+    }
+    .btn {
+      margin: 0px;
+     
+  }
+  .right-side-btn{
+    justify-content: end;
+    gap: 2%;
+  }
+  .left-side-btn{
+    gap: 2%;
+  }
+  
+  }
+  
+  @media screen and (min-width:1201px) and (max-width:1300px) {
+    .btn-style{
+      width: 40%;
+      margin-left: 2%;
+    }
+    .btn {
+      margin: 0px;
+     
+  }
+  .right-side-btn{
+    justify-content: end;
+    gap: 2%;
+  }
+  .left-side-btn{
+    gap: 2%;
+  }
+  }
+  @media screen and (min-width:1001px) and (max-width:1200px) {
+    .btn-style{
+      width: 40%;
+      margin-left: 2%;
+    }
+    .btn {
+      margin: 0px;
+     
+  }
+  .right-side-btn{
+    justify-content: end;
+    gap: 2%;
+  }
+  .left-side-btn{
+    gap: 2%;
+  }
+  }
+  @media screen and (min-width:782px) and (max-width:1001px) {
+    .btn-style{
+      width: 40%;
+      margin-left: 2%;
+    }
+    .btn {
+      margin: 0px;
+     
+  }
+  .right-side-btn{
+    justify-content: end;
+    gap: 2%;
+  }
+  .left-side-btn{
+    gap: 2%;
+  }
+  }
+  
+  @media screen and (min-width:550px) and (max-width:783px) {
+    .btn-style{
+      width: 40%;
+      margin-left: 2%;
+    }
+    .btn {
+      margin: 0px;
+     
+  }
+  .right-side-btn{
+    justify-content: end;
+    gap: 2%;
+  }
+  .left-side-btn{
+    gap: 2%;
+  }
+  }
+  @media screen and (min-width:300px) and (max-width:549px) {
+    .btn-style{
+      margin-left: 2%;
+    }
+    .btn {
+      margin: 0px;
+     
+  }
+  .right-side-btn{
+    justify-content: end;
+    gap: 2%;
+  }
+  .left-side-btn{
+    gap: 2%;
+  }
+  }
